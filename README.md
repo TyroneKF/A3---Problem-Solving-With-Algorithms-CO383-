@@ -1,5 +1,6 @@
 # A3-Problem-Solving-With-Algorithms-CO383-
 Year 1 Project
+![who-invented-math-header-blackboard_md](https://user-images.githubusercontent.com/74104140/98501771-16c60d00-2248-11eb-835e-af0abf118e9b.jpg)
 
 ## What is Normal Polish notation (NPN)?
 In this project we had to code Normal Polish notation (NPN) which is (totally not copied from wikipedia);
