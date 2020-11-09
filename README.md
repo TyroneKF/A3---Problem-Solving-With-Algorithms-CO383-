@@ -4,8 +4,7 @@ Year 1 Project
 
 ## What is Normal Polish notation (NPN)?
 In this project we had to code Normal Polish notation (NPN) which is (the brief below is totally not copied from wikipedia);
-
-The expression for adding the numbers 1 and 2 is written in Polish notation as + 1 2 (pre-fix), rather than as 1 + 2 (in-fix). In more complex expressions, the operators still precede their operands, but the operands may themselves be expressions including again operators and their operands. For instance, the expression that would be written in conventional infix notation as
+the expression for adding the numbers 1 and 2 is written in Polish notation as + 1 2 (pre-fix), rather than as 1 + 2 (in-fix). In more complex expressions, the operators still precede their operands, but the operands may themselves be expressions including again operators and their operands. For instance, the expression that would be written in conventional infix notation as
 
 (5 − 6) × 7
 can be written in Polish notation as
